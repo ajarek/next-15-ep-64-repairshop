@@ -13,7 +13,7 @@ const Header = () => {
             <h1 className='hidden sm:block text-xl m-0 mt-1 '>Computer Repair Shop</h1>
             </Link>
            </div>
-           <div className="flex items-center gap-4">
+           <div className="flex items-center gap-4 px-4">
            <NavButton icon={File} label='Tickets' href='/tickets'/>
            <NavButton icon={UserRound} label='Customers' href='/customers'/>
            <ModeToggle/>

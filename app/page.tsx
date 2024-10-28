@@ -10,7 +10,7 @@ export default function Home() {
           <h1 className='text-4xl'>Jarek&apos;s Computer <br />Repair Shop</h1>
           <address>
             78-100 Kołobrzeg <br />
-            ul. Główna 123 
+            st. Główna 123 
           </address>
           <p>Open Daily: 9:00 to 17:00</p>
           <Link href="tel:+48573219230" className='hover:underline'>573-219-230</Link>
